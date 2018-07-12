@@ -1,7 +1,10 @@
 # PINGR
 
-## A/B testing
+## Prerequisites
 
-Assume every test has two groups - "baseline" and "feature". "baseline" get the existing behaviour, "feature" get the new feature.
+1. MongoDB
+..* PINGR requires v3.4.X
 
-Each test must first get an entry in server/abConfig.js
+2. Node.js
+..* PINGR currently uses node v8.x.x
+..* The use of nvm is recommended for managing multiple versions on node on your system
