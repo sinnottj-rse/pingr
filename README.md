@@ -17,3 +17,15 @@
 ```
 $ git clone https://github.com/rw251/pingr -b dev
 ```
+
+2. Set up your environment
+
+```
+FIXME
+```
+
+3. Build
+
+```
+$ npm install 
+```	
